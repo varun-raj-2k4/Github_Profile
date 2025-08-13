@@ -2,7 +2,7 @@
 <h3 align="center">A Final Year AIML Engineer building the future, one line of code at a time.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XVfB1wbDxyPYI/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 I'm a final year B.E. student at **K.S. Institute of Technology (KSIT)**, majoring in Artificial Intelligence & Machine Learning. My world revolves around the fascinating intersection of `code` and `creativity`. I love building intelligent systems and bringing ideas to life on the web.

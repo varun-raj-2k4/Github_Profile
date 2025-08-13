@@ -2,7 +2,7 @@
 <h3 align="center">A Final Year AIML Engineer building the future, one line of code at a time.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG01dDBxajF2ZzU4M3ZtYWY3bzF4NjlhZzBza2syY2hwcTA5eWRjMyZlcD12JmN0PWc/M9gbBd9hDx804002x1/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/XVfB1wbDxyPYI/giphy.gif" width="300" />
 </p>
 
 I'm a final year B.E. student at **K.S. Institute of Technology (KSIT)**, majoring in Artificial Intelligence & Machine Learning. My world revolves around the fascinating intersection of `code` and `creativity`. I love building intelligent systems and bringing ideas to life on the web.
@@ -38,7 +38,6 @@ I'm actively looking for full-time opportunities in Generative AI and Full-Stack
 
 <p align="left">
 <a href="https://linkedin.com/in/varun1504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun1504" height="30" width="40" /></a>
-<a href="mailto:1508varunraj@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="1508varunraj@gmail.com" height="30" width="40" /></a>
 <a href="www.google.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/briefcase.png" alt="Portfolio" height="30" width="30" /></a>
 </p>
 
